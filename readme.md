@@ -1,5 +1,13 @@
 # 📦 API de Gerenciamento de Pedidos — Documentação
 
+Para facilitar os testes da API, uma **Collection do Postman** foi disponibilizada no projeto.
+
+A collection está localizada **na raiz do repositório**, permitindo que qualquer pessoa que clone o projeto consiga importar rapidamente todas as requisições da API.
+
+Arquivo da collection:
+
+orders-api.postman_collection.json
+
 ## 📋 Visão Geral
 
 Esta API foi desenvolvida em **Node.js utilizando JavaScript** com o objetivo de gerenciar pedidos de forma simples e organizada. A aplicação permite realizar operações de **CRUD (Create, Read, Update, Delete)** para pedidos.
